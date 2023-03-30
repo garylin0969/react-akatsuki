@@ -14,5 +14,5 @@ Transpiler: TypeScript v4.9.3
 
 React Plugin: @vitejs/plugin-react v3.1.0
 
-Project URL: https://garyl1n-akatsuki.vercel.app/
+Project URL: https://garylin0969.akatsuki.vercel.app/
 
