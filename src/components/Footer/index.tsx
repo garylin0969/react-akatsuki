@@ -22,9 +22,9 @@ const Footer = styled.footer`
 const index = () => {
     return (
         <Footer>
-            2023 Powered by
+            2023 Developed by
             <a href="https://github.com/GaryL1n/Akatsuki" target="_blank" rel="noreferrer">
-                Akatsuki
+                Gary Lin
             </a>
         </Footer>
     );
